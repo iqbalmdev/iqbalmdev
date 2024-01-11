@@ -3,7 +3,7 @@
 ## Contact Information 📞 📧
 - **Phone:** +91 74488 61220
 - **Email:** [mohammediqbalbe@gmail.com](mailto:mohammediqbalbe@gmail.com)
-- 
+  
 ## Objective 💡
 Motivated Aeronautical Engineering graduate turned passionate Web Developer with a strong foundation in React and Redux state management. Equipped with a solid understanding of web technologies, including HTML, CSS, JavaScript, and Next.js, I bring a unique blend of engineering precision and creative problem-solving to front-end development. Proficient in crafting responsive and visually appealing user interfaces using Bootstrap and Tailwind CSS. Eager to contribute my skills and enthusiasm for programming to a dynamic team, seeking opportunities to excel in innovative projects and make a meaningful impact in the field of web development.
 
